@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gradi L. Kamingu
-- 👀 I’m interested in Optimizaion and Data Science
+- 👀 I’m interested in Optimization and Data Science
 - 📫 Reach me on gradi.l.kmingu@aims-senegal.org, g.kamingu@gmail.com or gradi.kamingu@unikin.ac.cd
 
 <!---
