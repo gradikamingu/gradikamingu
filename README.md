@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **Gradi Kamingu Lubwele**.
 - 👀 I’m interested in **Optimization** and **Data Science**.
 - 📫 Reach me on gradi.l.kmingu@aims-senegal.org, g.kamingu@gmail.com or gradi.kamingu@unikin.ac.cd.
-- 🎥 Créateur de la chaîne [Gradi et la Science!](https://www.youtube.com/@GradietlaScience).
+- 🎥 Creator of the YouTube channel [Gradi et la Science!](https://www.youtube.com/@GradietlaScience).
 - 📈 GitHub Statistics:
   
   ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=gradikamingu&show_icons=true&theme=radical)
